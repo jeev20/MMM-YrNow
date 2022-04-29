@@ -1,5 +1,5 @@
 var NodeHelper = require('node_helper');
-var request = require('request');
+var request = require('postman-request');
 
 module.exports = NodeHelper.create({
 	start: function() {
